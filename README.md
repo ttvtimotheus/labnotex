@@ -85,9 +85,7 @@ Make sure to configure your `.env.local` with Supabase/Clerk credentials.
 
 ## ⚖️ License
 
-MIT or AGPL (choose depending on your monetization plan).  
-For open contribution and public use: **MIT**  
-For forcing public forks to be open too: **AGPLv3**
+MIT
 
 ---
 
@@ -95,7 +93,3 @@ For forcing public forks to be open too: **AGPLv3**
 
 Open for pull requests, suggestions and issues.  
 This project is for everyone who wants better, modern lab software without outdated legacy systems.
-
----
-
-> Built by [Timo Haseloff](https://github.com/ttvtimotheus) – MTL, Dev & Bioenthusiast 🧬
