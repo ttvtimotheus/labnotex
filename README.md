@@ -49,19 +49,27 @@ It’s designed for **research labs, educational institutions, biotech startups,
 | Uploads    | UploadThing / Supabase Storage |
 | Hosting    | Vercel / Railway / Docker     |
 
----
+- **Frontend**: Next.js mit App Router, TailwindCSS, shadcn/ui, TypeScript
+- **State Management**: Jotai für einfaches und effizientes State Management
+- **Backend**: Supabase für Auth, Datenbank, Storage
+- **Uploads**: UploadThing für einfache Datei-Uploads
+- **KI**: OpenAI API (optional aktivierbar)
+- **Deployment**: Vorbereitet für Vercel
 
-## 🛠️ Setup
+## Compliance & Sicherheit
 
-```bash
-git clone https://github.com/dein-name/labnotex.git
-cd labnotex
-npm install
-npm run dev
-```
+LahnoteX wurde unter Berücksichtigung wichtiger Compliance-Anforderungen entwickelt:
 
-Make sure to configure your `.env.local` with Supabase/Clerk credentials.
+### GDPR / DSGVO
+- Nutzereinwilligung
+- Datenexport & Löschung
+- Minimale Datenhaltung
+- EU-Hosting über Supabase (Region wählbar)
 
+### HIPAA
+- Verschlüsselung von Gesundheitsdaten
+- Zugriffskontrollen & Rollen
+- Audit-Trail für Änderungen
 ---
 
 ## 📚 Roadmap (WIP)

@@ -4,9 +4,7 @@ const nextConfig = {
   images: {
     domains: ['localhost', 'uploadthing.com'],
   },
-  experimental: {
-    serverActions: true,
-  },
+  // Server Actions sind jetzt standardmäßig aktiviert und benötigen keine experimentelle Flag mehr
 }
 
 module.exports = nextConfig

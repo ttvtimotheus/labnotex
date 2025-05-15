@@ -30,7 +30,7 @@ export default function Home() {
                 <Link href="/dashboard">
                   <Button>Loslegen</Button>
                 </Link>
-                <Link href="https://github.com/yourusername/labnotex" target="_blank" rel="noreferrer">
+                <Link href="https://github.com/ttvtimotheus/labnotex" target="_blank" rel="noreferrer">
                   <Button variant="outline">GitHub</Button>
                 </Link>
               </div>
